@@ -1,0 +1,2 @@
+Kartýný okuttuktan sonra sisteme giriþ yapabilecek ve bakiye ile iþlemler yapýlacak para yatýrma para çekme saat tarih  ayýrýmý yapýlacak hangi tarihte hangi iþlem yapýlmýþ
+kayýt olucak log bilgisis tutulacak.
